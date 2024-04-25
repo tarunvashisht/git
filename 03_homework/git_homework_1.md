@@ -9,16 +9,22 @@
     * `git add <filename>` then `git commit`
 5. Write a suitable commit message and finalize your commit
 6. 📸 Take a screenshot of your terminal output
+
+   <img width="653" alt="Screenshot 2024-04-25 at 4 26 42 PM" src="https://github.com/tarunvashisht/git/assets/167667529/91d9f108-cc6a-4f47-aba7-112ee8b18c12">
+
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
+
+    <img width="653" alt="Screenshot 2024-04-25 at 4 27 47 PM" src="https://github.com/tarunvashisht/git/assets/167667529/d294af35-67c9-48a0-9d78-9bcbf20abbfd">
+
 
 ### Task 2
 1. Create a new public repository on GitHub
 2. Add your GitHub repository as a remote for your local `githomework1` repository
     * `git remote add origin <url>`
 3. Push your local `githomework1` repository to GitHub
-4. Include your repository URL in your submission
+4. Include your repository URL in your submission  >>>https://github.com/tarunvashisht/homeworkrepo
 
 ### Task 3
 1. Create a new branch called `playing-with-bash`
